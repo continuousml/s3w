@@ -1,1 +1,1 @@
-S3W
+Stereographic Spherical Sliced Wasserstein Distances
